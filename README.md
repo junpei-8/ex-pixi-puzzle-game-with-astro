@@ -1,6 +1,28 @@
 # Pixi Puzzle Game with Astro
 
-## 🧞 Commands
+<br />
+
+## 使用技術
+
+---
+
+### 基盤
+
+- Astro
+- Nanostore
+
+<br />
+
+### 描画
+
+- PixiJS
+- TweenJS
+
+<br />
+
+## 🧞 コマンド
+
+---
 
 All commands are run from the root of the project, from a terminal:
 
