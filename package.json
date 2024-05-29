@@ -10,8 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.9.2",
     "@astrojs/check": "^0.7.0",
+    "@tweenjs/tween.js": "^23.1.2",
+    "astro": "^4.9.2",
+    "nanostores": "^0.10.3",
+    "pixi.js": "^8.1.5",
     "typescript": "^5.4.5"
   }
 }
